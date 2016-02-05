@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-underscore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "es6 module shim for underscore.js",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/weskinner/ember-cli-underscore",
   "engines": {
     "node": ">= 0.10.0"
   },
